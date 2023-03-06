@@ -1,0 +1,6 @@
+[submodule "s3-sync-dags"]
+	path = s3-sync-dags
+	url = https://github.com/rafaelcmonteiro/s3-sync-dags.git
+[submodule "first-dag"]
+	path = first-dag
+	url = https://github.com/rafaelcmonteiro/first-dag.git
